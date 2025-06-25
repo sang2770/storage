@@ -1,3 +1,14 @@
 {
-    "status": true
+  "keys": [
+    {
+      "key": "abc123",
+      "device": "",
+      "used": false
+    },
+    {
+      "key": "xyz789",
+      "device": "",
+      "used": false
+    }
+  ]
 }

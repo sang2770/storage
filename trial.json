@@ -1,3 +1,9 @@
 {
-  "keys": [{"key": "1234", "used": false}]
+  "keys": [
+    {
+      "key": "1234",
+      "used": true,
+      "device": "75489468061476"
+    }
+  ]
 }

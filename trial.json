@@ -6,7 +6,9 @@
       "device": "75489468061476"
     },
     {
-      "key": "CODE1"
+      "key": "CODE1",
+      "used": true,
+      "device": "147222003680317"
     },
     {
       "key": "CODE2"

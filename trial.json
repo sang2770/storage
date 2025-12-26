@@ -14,7 +14,9 @@
       "key": "CODE2"
     },
     {
-      "key": "ADMIN1"
+      "key": "ADMIN1",
+      "used": true,
+      "device": "177852975902765"
     }
   ]
 }
